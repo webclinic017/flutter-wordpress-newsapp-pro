@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.1.1/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.13.1/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-11.2.8/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_displaymode-0.3.2/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.0.2/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-1.1.0/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus-1.4.0/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.12/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus-3.1.0/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.11/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.2/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.15/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/video_player_android-2.3.0/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.6.1+1/android" />
+            <option value="$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.3/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
